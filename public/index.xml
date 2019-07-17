@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>WiDS Subotica</title>
+    <link>/</link>
+    <description>Recent content on WiDS Subotica</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 04 Jul 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>WiDS Outlook</title>
+      <link>/2019/07/04/wids-outlook/</link>
+      <pubDate>Thu, 04 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/07/04/wids-outlook/</guid>
+      <description>The first WiDS in Serbia conference was a big success.
+We began by discussing the motivation and passion of all involved in WiDS and the potential to change entrenched attitudes to data science within Serbia and the wider Balkan region. The video which illustrates the power behind WiDS initiative, proved to be a neat and practical way of conveying many of the overarching issues to be discussed at this and future conferences.</description>
+    </item>
+    
+    <item>
+      <title>Agenda:</title>
+      <link>/programme/</link>
+      <pubDate>Wed, 20 Feb 2019 21:48:51 -0700</pubDate>
+      
+      <guid>/programme/</guid>
+      <description>• 12:00pm &amp;ndash; Doors open: registration and refreshments
+• 12:40pm &amp;ndash; Welcome to WiDS regional event: Introduction, Announcements
+• 12:50pm &amp;ndash; The Global WiDS opening video
+Presentation Session • 1:00pm – Olivera Grljević (University of Novi Sad): “Are Universities Empowering Women in Data Science?”
+• 1:30pm – Valentina Djordjević (Things Solver): “Developing a Data Science project - from scratch to the measurable impact”
+• 2:00pm – Bojana Milasinović (SpaceEvent, EnterConference): “Tech enterprises: How to unlock those ideas?</description>
+    </item>
+    
+  </channel>
+</rss>
